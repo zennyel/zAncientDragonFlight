@@ -1,0 +1,4 @@
+name: zAncientDragonFlight
+version: '${project.version}'
+main: com.zancientdragonflight.ZAncientDragonFlight
+api-version: '1.20'
